@@ -2,13 +2,8 @@
 YOLO
 #A mimir
 
-#YA NO KIERO BIBIR
-#oliwis
+Este es el ejercicio Git 
 
-#amimegustanmuchodeesas
-#losodiobai
-ASEKTA MI CAMBIO
-=======
-
-
-562085287
+Trejo García Lizette
+Vázquez Sánchez Alejandro
+Velazquez Villegas Luis Jorge
