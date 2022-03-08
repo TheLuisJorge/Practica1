@@ -1,6 +1,6 @@
 # Practica1
 YOLO
-
+#A mimir
 
 #YA NO KIERO BIBIR
 #oliwis
