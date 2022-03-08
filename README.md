@@ -1,6 +1,6 @@
 # Practica1
 YOLO
-#A mimir
+
 
 Este es el ejercicio Git 
 
